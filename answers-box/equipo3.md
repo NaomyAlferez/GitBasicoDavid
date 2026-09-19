@@ -14,13 +14,13 @@
 ## Preguntas del equipo
 
 ### ¿Qué es la ingeniería de software?
-*Responde: [nombre de quien la contesta]*
+*Responde: aplicaciones por principios cientificos, diseño, contruir*
 ### ¿Qué son las soft skills?
-*Responde: [nombre de quien la contesta]*
+*Responde: habilidades que una persona aprender por su propia cuenta, competencias personales, a como te enfrentas antes los problemas*
 ### ¿Cómo puedes usar la IA en tu carrera sin perder el protagonismo?
-*Responde: [nombre de quien la contesta]*
+*Responde: codificando, pero siempre sabiendo lo que estoy haciendo*
 
 ## Lo más valioso que aprendimos hoy
->
+> el como se utiliza github y como funciona
 ## Una pregunta que nos quedó pendiente
->
+> 
